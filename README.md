@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm Ray Wang — a Computer Engineering graduate from UC Riverside and a software engineer based in Taipei, Taiwan.<br>I'm currently building a Spring Boot diary app with JWT authentication and PostgreSQL, featuring a streak-based system where users compete on consecutive journaling days. My broader project experience spans ML engineering (fraud detection pipelines, PCB defect detection with YOLO) and embedded systems (an interactive boxing robot arm built with Python, OpenCV, and Arduino).<br>On the learning side, I'm deepening my understanding of machine learning theory — model selection, regression, and reinforcement learning are areas I'm actively exploring.<br>I'm open to opportunities in backend engineering and ML engineering. Feel free to reach out.
+Hello, I’m Ray Wang, a Computer Engineering graduate of UC Riverside based in Taipei, Taiwan.
+
+I specialize in firmware and embedded systems, with a focus on bare-metal development for ARM Cortex-M microcontrollers, real-time control, and device communication. I’m currently completing an STM32-based alarm clock built without vendor libraries, which covers interrupt handling, timers, and custom peripheral drivers.
+
+My experience includes developing real-time control firmware for a robotic arm capstone project and supporting automated guided vehicle (AGV) deployments on production lines as a Field Application Engineer. I also have a passion for basic backend development and machine learning.
+
+I am seeking opportunities in firmware and embedded engineering. I welcome the chance to connect.
 
 
 ## 🌐 Socials:
